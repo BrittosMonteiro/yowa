@@ -1,0 +1,137 @@
+[
+    {
+      "id": 18,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 12,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:50:40.000Z",
+      "updatedAt": "2020-10-20T16:50:40.000Z",
+      "exercicio": {
+        "id": 12,
+        "nome_exercicio": "Remada alta (máquina)",
+        "createdAt": "2020-10-16T18:31:33.000Z",
+        "updatedAt": "2020-10-16T18:31:33.000Z"
+      }
+    },
+    {
+      "id": 19,
+      "conteudo_descricao": "4x10",
+      "usuarioId": 1,
+      "exercicioId": 13,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:50:54.000Z",
+      "updatedAt": "2020-10-20T16:50:54.000Z",
+      "exercicio": {
+        "id": 13,
+        "nome_exercicio": "Crucifixo invertido (halteres)",
+        "createdAt": "2020-10-16T18:32:00.000Z",
+        "updatedAt": "2020-10-16T18:32:00.000Z"
+      }
+    },
+    {
+      "id": 20,
+      "conteudo_descricao": "4x12 - 4 curtas & 8 completas",
+      "usuarioId": 1,
+      "exercicioId": 14,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:51:46.000Z",
+      "updatedAt": "2020-10-20T16:51:46.000Z",
+      "exercicio": {
+        "id": 14,
+        "nome_exercicio": "Remada baixa (triângulo)",
+        "createdAt": "2020-10-16T18:32:18.000Z",
+        "updatedAt": "2020-10-16T18:32:18.000Z"
+      }
+    },
+    {
+      "id": 21,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 15,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:52:22.000Z",
+      "updatedAt": "2020-10-20T16:52:22.000Z",
+      "exercicio": {
+        "id": 15,
+        "nome_exercicio": "Puxada aberta (frente)",
+        "createdAt": "2020-10-16T18:32:58.000Z",
+        "updatedAt": "2020-10-16T18:32:58.000Z"
+      }
+    },
+    {
+      "id": 22,
+      "conteudo_descricao": "4x14-12-10-8-6 (aumenta a carga e diminui as repetições)",
+      "usuarioId": 1,
+      "exercicioId": 16,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:54:51.000Z",
+      "updatedAt": "2020-10-20T16:54:51.000Z",
+      "exercicio": {
+        "id": 16,
+        "nome_exercicio": "Remada lateral (máquina)",
+        "createdAt": "2020-10-16T18:33:27.000Z",
+        "updatedAt": "2020-10-16T18:33:27.000Z"
+      }
+    },
+    {
+      "id": 23,
+      "conteudo_descricao": "4x10",
+      "usuarioId": 1,
+      "exercicioId": 18,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:59:16.000Z",
+      "updatedAt": "2020-10-20T16:59:16.000Z",
+      "exercicio": {
+        "id": 18,
+        "nome_exercicio": "Tríceps (paralelas)",
+        "createdAt": "2020-10-16T18:34:29.000Z",
+        "updatedAt": "2020-10-16T18:34:29.000Z"
+      }
+    },
+    {
+      "id": 24,
+      "conteudo_descricao": "4x12 - barra W",
+      "usuarioId": 1,
+      "exercicioId": 19,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T16:59:47.000Z",
+      "updatedAt": "2020-10-20T16:59:47.000Z",
+      "exercicio": {
+        "id": 19,
+        "nome_exercicio": "Remada alta (barra)",
+        "createdAt": "2020-10-16T18:34:53.000Z",
+        "updatedAt": "2020-10-16T18:34:53.000Z"
+      }
+    },
+    {
+      "id": 25,
+      "conteudo_descricao": "4x15",
+      "usuarioId": 1,
+      "exercicioId": 20,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T17:00:04.000Z",
+      "updatedAt": "2020-10-20T17:00:04.000Z",
+      "exercicio": {
+        "id": 20,
+        "nome_exercicio": "Extensão (lombar)",
+        "createdAt": "2020-10-16T18:35:24.000Z",
+        "updatedAt": "2020-10-16T18:35:24.000Z"
+      }
+    },
+    {
+      "id": 26,
+      "conteudo_descricao": "4x30",
+      "usuarioId": 1,
+      "exercicioId": 21,
+      "treinoId": 10,
+      "createdAt": "2020-10-20T17:00:25.000Z",
+      "updatedAt": "2020-10-20T17:00:25.000Z",
+      "exercicio": {
+        "id": 21,
+        "nome_exercicio": "Abdominal suspenso (paralelas)",
+        "createdAt": "2020-10-16T18:35:49.000Z",
+        "updatedAt": "2020-10-16T18:35:49.000Z"
+      }
+    }
+  ]

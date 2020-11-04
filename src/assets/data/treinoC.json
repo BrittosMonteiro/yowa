@@ -1,0 +1,137 @@
+[
+    {
+      "id": 27,
+      "conteudo_descricao": "4x12 & isometria 60s",
+      "usuarioId": 1,
+      "exercicioId": 1,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:48:01.000Z",
+      "updatedAt": "2020-10-20T17:48:01.000Z",
+      "exercicio": {
+        "id": 1,
+        "nome_exercicio": "Leg Press (sumo)",
+        "createdAt": "2020-10-09T19:00:08.000Z",
+        "updatedAt": "2020-10-16T18:37:26.000Z"
+      }
+    },
+    {
+      "id": 28,
+      "conteudo_descricao": "4x14-12-10-8-6-4 +carga - 10s e repete invertido",
+      "usuarioId": 1,
+      "exercicioId": 23,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:51:30.000Z",
+      "updatedAt": "2020-10-20T17:51:30.000Z",
+      "exercicio": {
+        "id": 23,
+        "nome_exercicio": "Cadeira extensora",
+        "createdAt": "2020-10-16T18:42:22.000Z",
+        "updatedAt": "2020-10-16T18:42:22.000Z"
+      }
+    },
+    {
+      "id": 29,
+      "conteudo_descricao": "3x20",
+      "usuarioId": 1,
+      "exercicioId": 24,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:51:54.000Z",
+      "updatedAt": "2020-10-20T17:51:54.000Z",
+      "exercicio": {
+        "id": 24,
+        "nome_exercicio": "Agachamento Hack (invertido)",
+        "createdAt": "2020-10-16T18:44:38.000Z",
+        "updatedAt": "2020-10-16T18:44:38.000Z"
+      }
+    },
+    {
+      "id": 30,
+      "conteudo_descricao": "4x20",
+      "usuarioId": 1,
+      "exercicioId": 5,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:52:33.000Z",
+      "updatedAt": "2020-10-20T17:52:33.000Z",
+      "exercicio": {
+        "id": 5,
+        "nome_exercicio": "Mesa flexora",
+        "createdAt": "2020-10-13T12:49:59.000Z",
+        "updatedAt": "2020-10-13T12:49:59.000Z"
+      }
+    },
+    {
+      "id": 31,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 26,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:53:01.000Z",
+      "updatedAt": "2020-10-20T17:53:01.000Z",
+      "exercicio": {
+        "id": 26,
+        "nome_exercicio": "Cadeira abdutora",
+        "createdAt": "2020-10-16T18:47:08.000Z",
+        "updatedAt": "2020-10-16T18:47:08.000Z"
+      }
+    },
+    {
+      "id": 32,
+      "conteudo_descricao": "4x15 - 15s isometria",
+      "usuarioId": 1,
+      "exercicioId": 27,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:53:36.000Z",
+      "updatedAt": "2020-10-20T17:53:36.000Z",
+      "exercicio": {
+        "id": 27,
+        "nome_exercicio": "Panturrilha sentado",
+        "createdAt": "2020-10-16T18:47:26.000Z",
+        "updatedAt": "2020-10-16T18:47:26.000Z"
+      }
+    },
+    {
+      "id": 33,
+      "conteudo_descricao": "3x30",
+      "usuarioId": 1,
+      "exercicioId": 28,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:54:00.000Z",
+      "updatedAt": "2020-10-20T17:54:00.000Z",
+      "exercicio": {
+        "id": 28,
+        "nome_exercicio": "Cadeira adutora",
+        "createdAt": "2020-10-16T18:47:59.000Z",
+        "updatedAt": "2020-10-16T18:47:59.000Z"
+      }
+    },
+    {
+      "id": 34,
+      "conteudo_descricao": "3x20",
+      "usuarioId": 1,
+      "exercicioId": 29,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:54:14.000Z",
+      "updatedAt": "2020-10-20T17:54:14.000Z",
+      "exercicio": {
+        "id": 29,
+        "nome_exercicio": "Abdominal (máquina)",
+        "createdAt": "2020-10-16T18:48:16.000Z",
+        "updatedAt": "2020-10-16T18:48:16.000Z"
+      }
+    },
+    {
+      "id": 35,
+      "conteudo_descricao": "3x30",
+      "usuarioId": 1,
+      "exercicioId": 30,
+      "treinoId": 11,
+      "createdAt": "2020-10-20T17:54:30.000Z",
+      "updatedAt": "2020-10-20T17:54:30.000Z",
+      "exercicio": {
+        "id": 30,
+        "nome_exercicio": "Abdominal flex. lateral",
+        "createdAt": "2020-10-16T18:48:58.000Z",
+        "updatedAt": "2020-10-16T18:49:19.000Z"
+      }
+    }
+  ]

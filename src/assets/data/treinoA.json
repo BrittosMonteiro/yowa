@@ -1,0 +1,137 @@
+[
+    {
+      "id": 9,
+      "conteudo_descricao": "4x12-10-8-6 (mesma carga) - intervalos de 30s",
+      "usuarioId": 1,
+      "exercicioId": 41,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T13:39:33.000Z",
+      "updatedAt": "2020-10-20T13:39:33.000Z",
+      "exercicio": {
+        "id": 41,
+        "nome_exercicio": "Cruxifico banco inclinado",
+        "createdAt": "2020-10-19T15:29:11.000Z",
+        "updatedAt": "2020-10-19T15:29:11.000Z"
+      }
+    },
+    {
+      "id": 10,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 7,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T13:40:18.000Z",
+      "updatedAt": "2020-10-20T13:40:18.000Z",
+      "exercicio": {
+        "id": 7,
+        "nome_exercicio": "Cross over",
+        "createdAt": "2020-10-16T18:28:20.000Z",
+        "updatedAt": "2020-10-16T18:28:20.000Z"
+      }
+    },
+    {
+      "id": 11,
+      "conteudo_descricao": "4x10",
+      "usuarioId": 1,
+      "exercicioId": 42,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:00:05.000Z",
+      "updatedAt": "2020-10-20T14:00:05.000Z",
+      "exercicio": {
+        "id": 42,
+        "nome_exercicio": "Supino reto (halteres)",
+        "createdAt": "2020-10-19T15:30:02.000Z",
+        "updatedAt": "2020-10-19T15:36:54.000Z"
+      }
+    },
+    {
+      "id": 12,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 43,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:02:37.000Z",
+      "updatedAt": "2020-10-20T14:02:37.000Z",
+      "exercicio": {
+        "id": 43,
+        "nome_exercicio": "Supino declinado (halteres)",
+        "createdAt": "2020-10-19T15:30:16.000Z",
+        "updatedAt": "2020-10-19T15:36:22.000Z"
+      }
+    },
+    {
+      "id": 13,
+      "conteudo_descricao": "4x12",
+      "usuarioId": 1,
+      "exercicioId": 44,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:02:51.000Z",
+      "updatedAt": "2020-10-20T14:02:51.000Z",
+      "exercicio": {
+        "id": 44,
+        "nome_exercicio": "Pull over",
+        "createdAt": "2020-10-19T15:31:34.000Z",
+        "updatedAt": "2020-10-19T15:31:34.000Z"
+      }
+    },
+    {
+      "id": 14,
+      "conteudo_descricao": "4x15",
+      "usuarioId": 1,
+      "exercicioId": 45,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:03:11.000Z",
+      "updatedAt": "2020-10-20T14:03:11.000Z",
+      "exercicio": {
+        "id": 45,
+        "nome_exercicio": "Elevação frontal (anilha)",
+        "createdAt": "2020-10-19T15:32:08.000Z",
+        "updatedAt": "2020-10-19T15:32:08.000Z"
+      }
+    },
+    {
+      "id": 15,
+      "conteudo_descricao": "4x10 - Drop",
+      "usuarioId": 1,
+      "exercicioId": 46,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:03:42.000Z",
+      "updatedAt": "2020-10-20T14:03:42.000Z",
+      "exercicio": {
+        "id": 46,
+        "nome_exercicio": "Elevação frontal (polia)",
+        "createdAt": "2020-10-19T15:32:21.000Z",
+        "updatedAt": "2020-10-19T15:32:21.000Z"
+      }
+    },
+    {
+      "id": 16,
+      "conteudo_descricao": "4x21 - 7x (baixa) + 7x (alta) + 7x (completa)",
+      "usuarioId": 1,
+      "exercicioId": 10,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:05:04.000Z",
+      "updatedAt": "2020-10-20T14:05:04.000Z",
+      "exercicio": {
+        "id": 10,
+        "nome_exercicio": "Rosca direta (barra)",
+        "createdAt": "2020-10-16T18:30:59.000Z",
+        "updatedAt": "2020-10-16T18:30:59.000Z"
+      }
+    },
+    {
+      "id": 17,
+      "conteudo_descricao": "4x 20+6",
+      "usuarioId": 1,
+      "exercicioId": 11,
+      "treinoId": 7,
+      "createdAt": "2020-10-20T14:10:14.000Z",
+      "updatedAt": "2020-10-20T14:10:14.000Z",
+      "exercicio": {
+        "id": 11,
+        "nome_exercicio": "Rosca direta (polia)",
+        "createdAt": "2020-10-16T18:31:06.000Z",
+        "updatedAt": "2020-10-16T18:31:06.000Z"
+      }
+    }
+  ]

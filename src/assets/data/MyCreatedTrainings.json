@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "nome_treino": "Treino A",
+    },
+    {
+        "id": "2",
+        "nome_treino": "Treino B",
+    },
+    {
+        "id": "3",
+        "nome_treino": "Treino C",
+    },
+    {
+        "id": "4",
+        "nome_treino": "Treino D",
+    },
+]

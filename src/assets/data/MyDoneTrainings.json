@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "nome_treino": "Treino A",
+        "local_treino": "SmartFit",
+        "data_treino": "15-10-2020",
+        "completos": "6",
+        "incompletos": "2",
+    },
+    {
+        "id": "2",
+        "nome_treino": "Treino B",
+        "local_treino": "SmartFit",
+        "data_treino": "18-10-2020",
+        "completos": "6",
+        "incompletos": "2",
+    },
+    {
+        "id": "3",
+        "nome_treino": "Treino C",
+        "local_treino": "SmartFit",
+        "data_treino": "19-10-2020",
+        "completos": "6",
+        "incompletos": "2",
+    },
+]
