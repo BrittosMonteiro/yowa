@@ -38,7 +38,7 @@ function Dashboard({navigation}) {
         </View>
         <View style={styles.informationArea}>
           <Text style={styles.informationLabel}>E-mail</Text>
-          <Text style={styles.informationText}>brittosmonteiro@gmail.com</Text>
+          <Text style={styles.informationText}>lucas@teste.com</Text>
         </View>
         <View style={styles.informationArea}>
           <Text style={styles.informationLabel}>Usuário</Text>
